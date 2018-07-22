@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath titodjangoal titodjangoal.wsgi --log-file -
+web: gunicorn --pythonpath titodjangoal djangoal.wsgi --log-file -
